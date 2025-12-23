@@ -9,5 +9,5 @@ using namespace std;
 signed main(){
     fastio
 
-    
+    string s; cin >> s; cout << s;
 }
