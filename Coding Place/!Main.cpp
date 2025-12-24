@@ -4,10 +4,11 @@
 #define all(x) x.begin(),x.end()
 #define rall(x) x.rbegin(),x.rend()
 #define add(x) accumulate(all(x),0LL);
+#define cerr if(0) cerr
 using namespace std;
 
 signed main(){
     fastio
 
-    string s; cin >> s; cout << s;
+    
 }
